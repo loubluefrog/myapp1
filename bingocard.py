@@ -10,7 +10,7 @@ class Window(Frame):
 
 
     def init_window(self):
-        self.master.title("Final Exam A")
+        self.master.title("BINGO CARD")
         
         
         self.b = (1, 15)
